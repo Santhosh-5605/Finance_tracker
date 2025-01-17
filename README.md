@@ -1,0 +1,1 @@
+The project is a **Personal Finance Tracker** that allows users to manage their finances via a console-based interface. It supports adding income and expenses, viewing the current balance, and checking transaction history. The system is built around a FinanceTracker class to handle transactions and compute balances efficiently.
